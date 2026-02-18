@@ -1,0 +1,35 @@
+[
+  {
+    "cuisine": "Italian",
+    "title": "Pasta Carbonara",
+    "rating": 4.5,
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "description": "Creamy pasta with bacon.",
+    "nutrients": {"calories": "400 kcal"},
+    "serves": "2"
+  },
+  {
+    "cuisine": "Mexican",
+    "title": "Tacos",
+    "rating": 4.7,
+    "prep_time": 15,
+    "cook_time": 10,
+    "total_time": 25,
+    "description": "Delicious beef tacos.",
+    "nutrients": {"calories": "350 kcal"},
+    "serves": "3"
+  },
+  {
+    "cuisine": "Indian",
+    "title": "Butter Chicken",
+    "rating": 4.8,
+    "prep_time": 20,
+    "cook_time": 30,
+    "total_time": 50,
+    "description": "Rich and creamy chicken curry.",
+    "nutrients": {"calories": "500 kcal"},
+    "serves": "4"
+  }
+]
